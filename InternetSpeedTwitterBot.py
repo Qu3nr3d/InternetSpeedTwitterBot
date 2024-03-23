@@ -6,8 +6,8 @@ from time import sleep
 
 PROMISED_DOWNLOAD = 50
 PROMISED_UPLOAD = 15
-X_EMAIL = "weronika.bulenda@interia.pl"
-X_PASSWORD = "W3ronika"
+X_EMAIL = "MAIL"
+X_PASSWORD = "PASSWORD"
 TWITTER = "https://twitter.com/?lang=en"
 SPEEDTEST = "https://www.speedtest.net/"
 SLEEP = lambda x: sleep(x)
